@@ -1,0 +1,4 @@
+Original: I'm a text file!
+
+ Double Original: I'm a text file!
+I'm a text file!
